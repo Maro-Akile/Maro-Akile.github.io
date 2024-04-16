@@ -1,0 +1,81 @@
+@font-face { font-family: Chela One; src: url("graphics/ChelaOne-Regular.ttf"); }
+
+html {
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	width: 100%;
+	height: auto;
+	min-width:500px;
+	min-height:350px;
+	background-color: white;
+	font-family: Chela One, sans-serif;
+	color:white;
+}
+
+.colorborder {
+	height: 95%;
+	width: 95%;
+	margin: auto;
+	background-color: #66bba5;
+	border-radius: 50px;
+	padding: 1%;
+}
+
+.dashedborder {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	border-radius: 50px;
+	border-style: dashed;
+	border-color: white;
+}
+
+hr {
+	width: 95%;
+	border-style: dashed;
+	border-color: white;
+	border-width: 3px;
+}
+
+.navbar {
+	height: auto;
+	width: 95%;
+	margin: auto;
+	display:block;
+}
+
+.bigcont {
+	height: auto;
+	width: 95%;
+	margin: auto;
+	margin-bottom: 2.5%;
+	background-color: none;
+}
+
+.sitefooter {
+	height: auto;
+	width: 95%;
+	margin: auto;
+	margin-bottom: 2.5%;
+	background-color: #1f8f72;
+	padding: 1%;
+	border-radius: 50px;
+}
+
+.sitefootercont {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	border-radius: 50px;
+	border-style: dashed;
+	border-color: white;
+	text-align: center;
+}
+
+td {
+	font-size: 25px;
+}
