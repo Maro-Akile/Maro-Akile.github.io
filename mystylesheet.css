@@ -83,7 +83,7 @@ td {
 .projecttableimage {
 	height: 100%;
 	width: 100%;
-	max-width: 500px;
+	max-width: 300px;
 	min-width: 100px;
 	background-color: black;
 }
